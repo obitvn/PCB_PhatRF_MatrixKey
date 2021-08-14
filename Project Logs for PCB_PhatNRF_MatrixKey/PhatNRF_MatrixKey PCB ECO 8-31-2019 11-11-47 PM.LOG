@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetC5_4 Pin=U2-2
+Removed Pin From Net: NetName=NetC5_2 Pin=U2-4
+Removed Pin From Net: NetName=NetC5_8 Pin=U2-A0
+Removed Pin From Net: NetName=NetC5_7 Pin=U2-A1
+Removed Pin From Net: NetName=NetC5_6 Pin=U2-A2
+Removed Pin From Net: NetName=NetC5_5 Pin=U2-A3
+Removed Pin From Net: NetName=NetC5_3 Pin=U2-~3
+Removed Pin From Net: NetName=NetC5_1 Pin=U2-~5
+Added Pin To Net: NetName=NetC5_5 Pin=U2-2
+Added Pin To Net: NetName=NetC5_7 Pin=U2-4
+Added Pin To Net: NetName=NetC5_1 Pin=U2-A0
+Added Pin To Net: NetName=NetC5_2 Pin=U2-A1
+Added Pin To Net: NetName=NetC5_3 Pin=U2-A2
+Added Pin To Net: NetName=NetC5_4 Pin=U2-A3
+Added Pin To Net: NetName=NetC5_6 Pin=U2-~3
+Added Pin To Net: NetName=NetC5_8 Pin=U2-~5
+Added Room: Name=PhatNRF_MatrixKey

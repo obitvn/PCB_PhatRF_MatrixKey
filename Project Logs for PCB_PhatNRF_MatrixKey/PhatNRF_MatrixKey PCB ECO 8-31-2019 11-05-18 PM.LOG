@@ -1,0 +1,15 @@
+Change Component Footprint: Designator=C5 Old Footprint=JP8-C1T New Footprint=JP8-C1C
+Added Component: Designator=*1(SW bapbenh)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JDC1(DC0)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Jac DC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=*1-2
+Added Pin To Net: NetName=GND Pin=JDC1-2
+Added Pin To Net: NetName=Net*1_1 Pin=*1-1
+Added Pin To Net: NetName=Net*1_1 Pin=JDC1-1
+Added Pin To Net: NetName=Net*1_1 Pin=JDC1-3
+Added Net: Name=Net*1_1
+Added Member To Class: ClassName=PhatNRF_MatrixKey Member=Component *1 SW bap benh
+Added Member To Class: ClassName=PhatNRF_MatrixKey Member=Component JDC1 Jac DC
+Added Room: Name=PhatNRF_MatrixKey
